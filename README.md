@@ -12,5 +12,5 @@ the soft：
   3. bioawk
 
 ```
-conda install -c bioconda sekit gffread bioawk
+conda install -c bioconda seqkit gffread bioawk
 ```
