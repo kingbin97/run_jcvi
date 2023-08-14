@@ -10,3 +10,7 @@ the soft：
   1. seqkit
   2. gffread
   3. bioawk
+
+```
+conda install -c bioconda sekit gffread bioawk
+```
